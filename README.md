@@ -159,7 +159,7 @@ A lightweight, single-file blog system where posts can be written in Markdown an
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:374151,100:111827&height=90&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1E3A5F,100:334E68&height=100&section=footer&animation=twinkling" />
 </p>
 
 <p align="center">
