@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Jasmeet Kaur 👋</h1>
-<h3 align="center">BCA Student | Aspiring Data Analyst & Web Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1e3c72,100:2a5298&height=180&section=header&text=Jasmeet%20Kaur&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2A5298&center=true&vCenter=true&width=650&lines=BCA+Student;Aspiring+Data+Analyst;Web+Developer;Turning+Raw+Data+Into+Insights" />
+</p>
 
 <p align="center">
   <a href="mailto:jask90067@gmail.com">
@@ -14,51 +19,51 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaskaur13013-crypto&style=for-the-badge&color=blueviolet" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jaskaur13013-crypto&style=for-the-badge&color=2a5298" alt="profile views" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 I'm a BCA student with a strong interest in **Data Analytics, Data Science, and Web Development**. I have hands-on skills in Python, SQL, Excel, Power BI, HTML, CSS, and JavaScript. I'm passionate about analyzing data, building practical solutions, and continuously developing my technical skills for a career in the IT industry.
 
-- 🔭 Currently building real-world data analytics & web development projects
-- 🌱 Strengthening my skills in SQL, Power BI, and Python for data science
-- 💬 Ask me about Excel dashboards, Power BI reports, or front-end web apps
-- 📫 Reach me at **jask90067@gmail.com**
+- Currently building real-world data analytics & web development projects
+- Strengthening my skills in SQL, Power BI, and Python for data science
+- Open to questions on Excel dashboards, Power BI reports, or front-end web apps
+- Reach me at **jask90067@gmail.com**
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 📊 [Retail Intelligence Platform](https://github.com/jaskaur13013-crypto)
+#### [Retail Intelligence Platform](https://github.com/jaskaur13013-crypto/Retail_Intelligence_Platform)
 An interactive Streamlit dashboard that analyzes retail sales data and tracks key business KPIs like revenue, average order value, and inventory performance in real time.
 **Tools:** `Python` `Pandas` `Streamlit` `Plotly`
 
-#### 💰 [Crypto Tracker (Cryptex)](https://github.com/jaskaur13013-crypto)
+#### [Crypto Tracker (Cryptex)](https://github.com/jaskaur13013-crypto/Crypto-Tracker)
 A real-time cryptocurrency tracker that pulls live prices, % changes, and historical charts from the CoinGecko API, with a virtual portfolio feature to simulate holdings.
 **Tools:** `HTML` `CSS` `JavaScript` `CoinGecko API`
 
-#### 🎬 [IMDB Top 1000 Movies — EDA & Preprocessing](https://github.com/jaskaur13013-crypto)
+#### [IMDB Top 1000 Movies — EDA & Preprocessing](https://github.com/jaskaur13013-crypto/jaskaur13013-crypto)
 A complete exploratory data analysis and preprocessing pipeline on the IMDB Top 1000 Movies dataset, cleaning and preparing data for a supervised regression model predicting IMDB rating.
 **Tools:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`
 
-#### 🗯️ [RantWall](https://github.com/jaskaur13013-crypto)
+#### [RantWall](https://github.com/jaskaur13013-crypto/RantWall)
 An anonymous discussion platform where college students can post and read opinions without revealing their identity.
 **Tools:** `HTML` `CSS` `JavaScript`
 
-#### 📝 [Sticky Notes](https://github.com/jaskaur13013-crypto)
+#### [Sticky Notes](https://github.com/jaskaur13013-crypto/Sticky-Notes)
 A browser-based sticky notes app with drag-and-drop, color customization, and persistent storage so your notes survive a page refresh.
 **Tools:** `HTML` `CSS` `JavaScript` `localStorage`
 
-#### ✍️ [Blog CMS](https://github.com/jaskaur13013-crypto)
+#### [Blog CMS](https://github.com/jaskaur13013-crypto/BLOG)
 A single-file, no-install blog system where posts are written in Markdown and rendered dynamically, with tag filtering and search built in.
 **Tools:** `HTML` `Markdown` `JavaScript`
 
 ---
 
-### 🛠️ Skills
+### Skills
 
 | Area | Technologies |
 |---|---|
@@ -70,7 +75,7 @@ A single-file, no-install blog system where posts are written in Markdown and re
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,git,github,vscode" />
@@ -87,16 +92,30 @@ A single-file, no-install blog system where posts are written in Markdown and re
 
 ---
 
-### 🎓 Certifications
+### Certifications
 
-- 📈 Data Analysis — *Tech Access Learning*
-- 📊 Power BI Micro Course — *SkillCourse*
-- 💼 Data Analyst Internship Completion Certificate — *KYonex Technologies*
-- 🌐 Web Development Internship Completion Certificate — *Tronixia*
+- Data Analysis — *Tech Access Learning*
+- Power BI Micro Course — *SkillCourse*
+- Data Analyst Internship Completion Certificate — *KYonex Technologies*
+- Web Development Internship Completion Certificate — *Tronixia*
 
 ---
 
-### 📈 GitHub Stats
+### Currently
+
+- Building end-to-end data analytics & web development projects
+- Strengthening SQL, Python, and Power BI skills
+- Preparing my portfolio for Data Analyst / Web Developer roles
+
+### Goals
+
+- Build impactful, end-to-end analytics and web projects
+- Get strong at SQL and Python for data work
+- Start a career as a Data Analyst / Web Developer
+
+---
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaskaur13013-crypto&show_icons=true&theme=default&hide_border=true" height="165" />
@@ -109,4 +128,8 @@ A single-file, no-install blog system where posts are written in Markdown and re
 
 ---
 
-<p align="center"><i>Thanks for stopping by — let's connect and build something great! 🚀</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:2a5298,100:1e3c72&height=100&section=footer" />
+</p>
+
+<p align="center"><i>Thanks for stopping by — let's connect and build something great.</i></p>
