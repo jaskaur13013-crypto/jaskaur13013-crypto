@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f172a,100:2563eb&height=180&section=header&text=Jasmeet%20Kaur&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:374151&height=170&section=header&text=Jasmeet%20Kaur&fontSize=52&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=BCA+Student;Aspiring+Data+Analyst;Data+Science+Enthusiast;Web+Developer;Turning+Data+Into+Insights" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Arial&weight=500&size=22&pause=1200&color=374151&center=true&vCenter=true&width=700&lines=BCA+Student;Aspiring+Data+Analyst;Data+Science+Enthusiast;Web+Developer;Turning+Data+Into+Insights" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaskaur13013-crypto&style=for-the-badge&color=2563eb" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jaskaur13013-crypto&style=for-the-badge&color=374151" alt="profile views" />
 </p>
 
 ---
@@ -28,13 +28,13 @@
 
 I'm a BCA student with a strong interest in **Data Analytics, Data Science, and Web Development**. I enjoy working with data, building practical projects, and developing solutions that combine technical skills with real-world applications.
 
-- BCA Student
-- Interested in **Data Analytics & Data Science**
-- Skilled in **Python, SQL, Excel, Power BI, HTML, CSS & JavaScript**
-- Building projects involving **data analysis, visualization and web development**
-- Currently strengthening my skills in **SQL, Python, Power BI and Data Science**
-- Preparing for opportunities in **Data Analytics, Data Science & Web Development**
-- Reach me at **jask90067@gmail.com**
+* BCA Student
+* Interested in **Data Analytics & Data Science**
+* Skilled in **Python, SQL, Excel, Power BI, HTML, CSS & JavaScript**
+* Building projects involving **data analysis, visualization and web development**
+* Currently strengthening my skills in **SQL, Python, Power BI and Data Science**
+* Preparing for opportunities in **Data Analytics, Data Science & Web Development**
+* Reach me at **[jask90067@gmail.com](mailto:jask90067@gmail.com)**
 
 ---
 
@@ -50,7 +50,7 @@ An interactive Streamlit dashboard that analyzes retail sales data and tracks ke
 
 ### [Crypto Tracker — Cryptex](https://github.com/jaskaur13013-crypto/Crypto-Tracker)
 
-A real-time cryptocurrency tracker that retrieves live cryptocurrency prices, percentage changes and historical charts using the CoinGecko API. It also includes a virtual portfolio feature for simulating cryptocurrency holdings.
+A real-time cryptocurrency tracker that retrieves cryptocurrency prices, percentage changes and historical charts using the CoinGecko API. It also includes a virtual portfolio feature for simulating cryptocurrency holdings.
 
 **Tools:** `HTML` `CSS` `JavaScript` `CoinGecko API`
 
@@ -90,13 +90,13 @@ A lightweight, single-file blog system where posts can be written in Markdown an
 
 ## Skills
 
-| Area | Technologies |
-|---|---|
-| **Programming Languages** | Python, JavaScript |
-| **Web Technologies** | HTML, CSS |
-| **Database** | SQL |
+| Area                               | Technologies                                                                                  |
+| ---------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Programming Languages**          | Python, JavaScript                                                                            |
+| **Web Technologies**               | HTML, CSS                                                                                     |
+| **Database**                       | SQL                                                                                           |
 | **Data Analytics & Visualization** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit, Plotly, Power BI, Advanced Excel |
-| **Version Control** | Git, GitHub |
+| **Version Control**                | Git, GitHub                                                                                   |
 
 ---
 
@@ -119,47 +119,47 @@ A lightweight, single-file blog system where posts can be written in Markdown an
 
 ## Certifications
 
-- **Data Analysis** — *Tech Access Learning*
-- **Power BI Micro Course** — *SkillCourse*
-- **Data Analyst Internship Completion Certificate** — *KYonex Technologies*
-- **Web Development Internship Completion Certificate** — *Tronixia*
+* **Data Analysis** — *Tech Access Learning*
+* **Power BI Micro Course** — *SkillCourse*
+* **Data Analyst Internship Completion Certificate** — *KYonex Technologies*
+* **Web Development Internship Completion Certificate** — *Tronixia*
 
 ---
 
 ## Currently
 
-- Building end-to-end **data analytics & web development projects**
-- Strengthening **SQL, Python, Power BI & Data Science**
-- Exploring **data visualization, EDA and machine learning**
-- Preparing my portfolio for **Data Analyst, Data Science & Web Developer roles**
+* Building end-to-end **data analytics & web development projects**
+* Strengthening **SQL, Python, Power BI & Data Science**
+* Exploring **data visualization, EDA and machine learning**
+* Preparing my portfolio for **Data Analyst, Data Science & Web Developer roles**
 
 ---
 
 ## Goals
 
-- Build impactful, real-world **data analytics & data science projects**
-- Become strong in **SQL, Python and data visualization**
-- Develop practical **web development** skills
-- Build a strong portfolio for **internships and placements**
-- Start a career in the **IT industry**
+* Build impactful, real-world **data analytics & data science projects**
+* Become strong in **SQL, Python and data visualization**
+* Develop practical **web development** skills
+* Build a strong portfolio for **internships and placements**
+* Start a career in the **IT industry**
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaskaur13013-crypto&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=jaskaur13013-crypto&hide_border=true&theme=default" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaskaur13013-crypto&theme=default" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaskaur13013-crypto&theme=default" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaur13013-crypto&layout=compact&hide_border=true&theme=default" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaskaur13013-crypto&theme=default" width="90%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2563eb,100:0f172a&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:374151,100:111827&height=90&section=footer" />
 </p>
 
 <p align="center">
