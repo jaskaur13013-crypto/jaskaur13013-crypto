@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1e3c72,100:2a5298&height=180&section=header&text=Jasmeet%20Kaur&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f172a,100:2563eb&height=180&section=header&text=Jasmeet%20Kaur&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2A5298&center=true&vCenter=true&width=650&lines=BCA+Student;Aspiring+Data+Analyst;Web+Developer;Turning+Raw+Data+Into+Insights" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=BCA+Student;Aspiring+Data+Analyst;Data+Science+Enthusiast;Web+Developer;Turning+Data+Into+Insights" />
 </p>
 
 <p align="center">
@@ -19,51 +19,76 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaskaur13013-crypto&style=for-the-badge&color=2a5298" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jaskaur13013-crypto&style=for-the-badge&color=2563eb" alt="profile views" />
 </p>
 
 ---
 
-### About Me
+## About Me
 
-I'm a BCA student with a strong interest in **Data Analytics, Data Science, and Web Development**. I have hands-on skills in Python, SQL, Excel, Power BI, HTML, CSS, and JavaScript. I'm passionate about analyzing data, building practical solutions, and continuously developing my technical skills for a career in the IT industry.
+I'm a BCA student with a strong interest in **Data Analytics, Data Science, and Web Development**. I enjoy working with data, building practical projects, and developing solutions that combine technical skills with real-world applications.
 
-- Currently building real-world data analytics & web development projects
-- Strengthening my skills in SQL, Power BI, and Python for data science
-- Open to questions on Excel dashboards, Power BI reports, or front-end web apps
+- BCA Student
+- Interested in **Data Analytics & Data Science**
+- Skilled in **Python, SQL, Excel, Power BI, HTML, CSS & JavaScript**
+- Building projects involving **data analysis, visualization and web development**
+- Currently strengthening my skills in **SQL, Python, Power BI and Data Science**
+- Preparing for opportunities in **Data Analytics, Data Science & Web Development**
 - Reach me at **jask90067@gmail.com**
 
 ---
 
-### Featured Projects
+## Featured Projects
 
-#### [Retail Intelligence Platform](https://github.com/jaskaur13013-crypto/Retail_Intelligence_Platform)
-An interactive Streamlit dashboard that analyzes retail sales data and tracks key business KPIs like revenue, average order value, and inventory performance in real time.
+### [Retail Intelligence Platform](https://github.com/jaskaur13013-crypto/Retail_Intelligence_Platform)
+
+An interactive Streamlit dashboard that analyzes retail sales data and tracks key business KPIs such as revenue, average order value, units sold, discounts and inventory performance.
+
 **Tools:** `Python` `Pandas` `Streamlit` `Plotly`
 
-#### [Crypto Tracker (Cryptex)](https://github.com/jaskaur13013-crypto/Crypto-Tracker)
-A real-time cryptocurrency tracker that pulls live prices, % changes, and historical charts from the CoinGecko API, with a virtual portfolio feature to simulate holdings.
+---
+
+### [Crypto Tracker — Cryptex](https://github.com/jaskaur13013-crypto/Crypto-Tracker)
+
+A real-time cryptocurrency tracker that retrieves live cryptocurrency prices, percentage changes and historical charts using the CoinGecko API. It also includes a virtual portfolio feature for simulating cryptocurrency holdings.
+
 **Tools:** `HTML` `CSS` `JavaScript` `CoinGecko API`
 
-#### [IMDB Top 1000 Movies — EDA & Preprocessing](https://github.com/jaskaur13013-crypto/jaskaur13013-crypto)
-A complete exploratory data analysis and preprocessing pipeline on the IMDB Top 1000 Movies dataset, cleaning and preparing data for a supervised regression model predicting IMDB rating.
+---
+
+### [IMDB Top 1000 Movies — EDA & Preprocessing](https://github.com/jaskaur13013-crypto/jaskaur13013-crypto)
+
+An exploratory data analysis and preprocessing project using the IMDB Top 1000 Movies dataset. The project focuses on data cleaning, preprocessing, visualization and preparing the dataset for a supervised regression model to predict IMDB ratings.
+
 **Tools:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`
 
-#### [RantWall](https://github.com/jaskaur13013-crypto/RantWall)
-An anonymous discussion platform where college students can post and read opinions without revealing their identity.
+---
+
+### [RantWall](https://github.com/jaskaur13013-crypto/RantWall)
+
+An anonymous discussion platform where college students can share and read opinions without revealing their identity.
+
 **Tools:** `HTML` `CSS` `JavaScript`
 
-#### [Sticky Notes](https://github.com/jaskaur13013-crypto/Sticky-Notes)
-A browser-based sticky notes app with drag-and-drop, color customization, and persistent storage so your notes survive a page refresh.
+---
+
+### [Sticky Notes](https://github.com/jaskaur13013-crypto/Sticky-Notes)
+
+A browser-based sticky notes application featuring drag-and-drop functionality, customizable note colors and persistent storage using localStorage.
+
 **Tools:** `HTML` `CSS` `JavaScript` `localStorage`
 
-#### [Blog CMS](https://github.com/jaskaur13013-crypto/BLOG)
-A single-file, no-install blog system where posts are written in Markdown and rendered dynamically, with tag filtering and search built in.
+---
+
+### [Blog CMS](https://github.com/jaskaur13013-crypto/BLOG)
+
+A lightweight, single-file blog system where posts can be written in Markdown and dynamically rendered with built-in tag filtering and search functionality.
+
 **Tools:** `HTML` `Markdown` `JavaScript`
 
 ---
 
-### Skills
+## Skills
 
 | Area | Technologies |
 |---|---|
@@ -75,7 +100,7 @@ A single-file, no-install blog system where posts are written in Markdown and re
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,git,github,vscode" />
@@ -92,44 +117,51 @@ A single-file, no-install blog system where posts are written in Markdown and re
 
 ---
 
-### Certifications
+## Certifications
 
-- Data Analysis — *Tech Access Learning*
-- Power BI Micro Course — *SkillCourse*
-- Data Analyst Internship Completion Certificate — *KYonex Technologies*
-- Web Development Internship Completion Certificate — *Tronixia*
-
----
-
-### Currently
-
-- Building end-to-end data analytics & web development projects
-- Strengthening SQL, Python, and Power BI skills
-- Preparing my portfolio for Data Analyst / Web Developer roles
-
-### Goals
-
-- Build impactful, end-to-end analytics and web projects
-- Get strong at SQL and Python for data work
-- Start a career as a Data Analyst / Web Developer
+- **Data Analysis** — *Tech Access Learning*
+- **Power BI Micro Course** — *SkillCourse*
+- **Data Analyst Internship Completion Certificate** — *KYonex Technologies*
+- **Web Development Internship Completion Certificate** — *Tronixia*
 
 ---
 
-### GitHub Stats
+## Currently
+
+- Building end-to-end **data analytics & web development projects**
+- Strengthening **SQL, Python, Power BI & Data Science**
+- Exploring **data visualization, EDA and machine learning**
+- Preparing my portfolio for **Data Analyst, Data Science & Web Developer roles**
+
+---
+
+## Goals
+
+- Build impactful, real-world **data analytics & data science projects**
+- Become strong in **SQL, Python and data visualization**
+- Develop practical **web development** skills
+- Build a strong portfolio for **internships and placements**
+- Start a career in the **IT industry**
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaskaur13013-crypto&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaskaur13013-crypto&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaskaur13013-crypto&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=jaskaur13013-crypto&hide_border=true&theme=default" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaur13013-crypto&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaur13013-crypto&layout=compact&hide_border=true&theme=default" height="165" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:2a5298,100:1e3c72&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2563eb,100:0f172a&height=100&section=footer" />
 </p>
 
-<p align="center"><i>Thanks for stopping by — let's connect and build something great.</i></p>
+<p align="center">
+  <i>Thanks for stopping by — let's connect and build something great.</i>
+</p>
