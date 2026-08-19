@@ -152,9 +152,6 @@ A lightweight, single-file blog system where posts can be written in Markdown an
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaskaur13013-crypto&theme=default" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaskaur13013-crypto&theme=default" width="90%" />
-</p>
 
 ---
 
