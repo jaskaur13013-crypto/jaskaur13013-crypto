@@ -56,7 +56,7 @@ A real-time cryptocurrency tracker that retrieves cryptocurrency prices, percent
 
 ---
 
-### [IMDB Top 1000 Movies — EDA & Preprocessing](https://github.com/jaskaur13013-crypto/jaskaur13013-crypto)
+### [IMDB Top 1000 Movies — EDA & Preprocessing](https://github.com/jaskaur13013-crypto/IMDB-Top-1000-Data-Preprocessing)
 
 An exploratory data analysis and preprocessing project using the IMDB Top 1000 Movies dataset. The project focuses on data cleaning, preprocessing, visualization and preparing the dataset for a supervised regression model to predict IMDB ratings.
 
